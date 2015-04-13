@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$USER_HOME$/Projects/daniel-rigby-research/node_modules/grunt-ng-templates" libraries="{grunt-angular-templates node_modules}" />
+  </component>
+</project>
