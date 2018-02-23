@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # grunt-ng-templates based on grunt-angular-templates
 
 [![Build Status](https://travis-ci.org/ericclemmons/grunt-angular-templates.svg)](https://travis-ci.org/ericclemmons/grunt-angular-templates)
@@ -415,7 +414,6 @@ Licensed under the MIT license.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ericclemmons/grunt-angular-templates/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-=======
+
 # grunt-ng-templates
 Grunt plugin to generate and convert html to js templates. Based on grunt-angular-templates with a change to allow it be standalone.
->>>>>>> adc890ac019358506564edb258952bed78dac09b
